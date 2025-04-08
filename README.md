@@ -114,4 +114,5 @@ After you create a pull request:
 - Paul F
 - Enzo L
 - Júlia D
-- Maxence 
+- Maxence
+- Jack 
